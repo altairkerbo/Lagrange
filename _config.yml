@@ -19,10 +19,12 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
+url: 'https://altairkerbo.github.io/'
+
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
+title:		           '天外天'
 description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+author:              'Altair Kerbo'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
